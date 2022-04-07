@@ -19,3 +19,6 @@ Use a production mindsight from Day One
 `docker build .`
 `docker run -p 127.0.0.1:8080:8080 a92690211e75`
 
+## References
+
+* [Watch on YouTube-Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://www.youtube.com/watch?v=8qRYu4Q7RQU)
