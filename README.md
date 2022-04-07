@@ -19,6 +19,10 @@ Use a production mindset from Day One
 `docker build .`
 `docker run -p 127.0.0.1:8080:8080 a92690211e75`
 
+
+![Drawing-7 sketchpad](https://user-images.githubusercontent.com/58792/162333520-fd42b304-8e6f-46fd-b372-96a4fd4fa2e1.png)
+
+
 ## References
 
 * [Watch on YouTube-Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://www.youtube.com/watch?v=8qRYu4Q7RQU)
