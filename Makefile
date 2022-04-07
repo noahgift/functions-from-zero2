@@ -4,7 +4,7 @@ install:
 
 test:
 	python -m pytest  --nbval-lax *.ipynb
-	#python -m pytest -vv test_hello.py
+	python -m pytest -vv test_hello.py
 
 format:
 	black *.py
