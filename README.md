@@ -6,7 +6,7 @@ This is a new repo for building functions from zero
 
 ## Step One for New Project
 
-Use a production mindsight from Day One
+Use a production mindset from Day One
 
 
 ## Step Functions
