@@ -7,3 +7,9 @@ This is a new repo for building functions from zero
 ## Step One for New Project
 
 Use a production mindsight from Day One
+
+
+## Step Functions
+
+
+![Step functions](https://user-images.githubusercontent.com/58792/162226407-7d522759-2eb4-4276-8d26-7dffa13b1a17.png)
