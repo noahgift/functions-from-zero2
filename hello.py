@@ -1,6 +1,7 @@
 from random import choices
 import fire
 
+
 def fruit_generator(fruit):
     """Returns back random fruit"""
 
@@ -11,5 +12,5 @@ def fruit_generator(fruit):
     return choices(fruits)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     fire.Fire(fruit_generator)

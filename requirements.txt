@@ -1,4 +1,6 @@
 pytest
+pytest_cov
 pylint
 black
 nbval
+fire
