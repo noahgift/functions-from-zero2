@@ -4,3 +4,4 @@ pylint
 black
 nbval
 fire
+click
