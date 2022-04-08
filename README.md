@@ -43,5 +43,6 @@ deploy:
 * [O'Reilly-Getting Started With Aws Lambda Step Functions](https://learning.oreilly.com/videos/getting-started-with/040722022VIDEOPAIML/040722022VIDEOPAIML-c1_s0/)
 * [YouTube-Getting Started With AWS Lambda Step Functions](https://www.youtube.com/watch?v=7CCUnHblg2s)
 
-
+### Python Fire CLI
+* [YouTube-Python-Fire-CLI](https://youtu.be/DKWd-QUytPo)
 
