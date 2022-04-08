@@ -23,7 +23,7 @@ Use a production mindset from Day One
 
 ![Drawing-7 sketchpad](https://user-images.githubusercontent.com/58792/162333520-fd42b304-8e6f-46fd-b372-96a4fd4fa2e1.png)
 
-Continuous Delivery is one line of code via [buildspec.yaml](https://github.com/noahgift/functions-from-zero2/blob/main/buildspec.yaml) and the `make deploy` command:  [make deploy](https://github.com/noahgift/functions-from-zero2/blob/4eb6360e7d6dddbca6f4a497e197abb93b0966cf/Makefile#L15-L19)
+Continuous Delivery is one line of code via [buildspec.yaml](https://github.com/noahgift/functions-from-zero2/blob/main/buildspec.yml) and the `make deploy` command:  [make deploy](https://github.com/noahgift/functions-from-zero2/blob/4eb6360e7d6dddbca6f4a497e197abb93b0966cf/Makefile#L15-L19)
 
 ```make
 deploy:
