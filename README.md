@@ -24,6 +24,13 @@ Use a production mindset from Day One
 
 Continuous Delivery is one line of code via [buildspec.yaml](https://github.com/noahgift/functions-from-zero2/blob/main/buildspec.yaml) and the `make deploy` command:  [make deploy](https://github.com/noahgift/functions-from-zero2/blob/4eb6360e7d6dddbca6f4a497e197abb93b0966cf/Makefile#L15-L19)
 
+```make
+deploy:
+	aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 561744971673.dkr.ecr.us-east-1.amazonaws.com
+	docker build -t deploy-fastapi .
+	docker tag deploy-fastapi:latest 561744971673.dkr.ecr.us-east-1.amazonaws.com/deploy-fastapi:latest
+	docker push 561744971673.dkr.ecr.us-east-1.amazonaws.com/deploy-fastapi:latest
+```
 
 ## References
 
