@@ -9,7 +9,6 @@ This is a new repo for building functions from zero
 
 Use a production mindset from Day One
 
-
 ## Step Functions
 
 
@@ -45,6 +44,14 @@ deploy:
 
 ### Python Fire CLI
 * [YouTube-Python-Fire-CLI](https://youtu.be/DKWd-QUytPo)
+* [O'Reilly-Quickstart Python Fire Command Line Interface (CLI)](https://learning.oreilly.com/videos/quickstart-python-fire/040812022VIDEOPAIML/)
 
 ### Refactoring a Python script into a library called by Python Click CLI
 * [YouTube-Refactoring a Python script into a library called by Python Click CLI](https://youtu.be/0x261nI5Yws)
+* [O'Reilly-Refactoring a Python script into a library called by Python Click CLI](https://learning.oreilly.com/videos/refactoring-a-python/04082022VIDEOPAIML/)
+
+### Learn Python in Five Minutes with Colab
+
+* [YouTube-Learn Python in Five Minutes with Colab](https://www.youtube.com/watch?v=BTmJR3x_35c)
+* [O'Reilly-Learn Python in five Minutes with Colab Notebook](https://learning.oreilly.com/videos/learn-python-in/04083022VIDEOPAIML/)
+
