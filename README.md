@@ -3,6 +3,7 @@ This is a new repo for building functions from zero
 
 [![Python application test with Github Actions](https://github.com/noahgift/functions-from-zero2/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/functions-from-zero2/actions/workflows/main.yml)
 
+[![Code Build](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaUxCMHhMQXdpRWloZmhhRlVPQnBsd2xsSHR3eGZxZTQwQ1k2bndjakg5T1RaQW1rTUhNbWhHV3JjR1pWVDViSEVORUJjSlU0RHBTaCtmOWxSOUdnWVQwPSIsIml2UGFyYW1ldGVyU3BlYyI6IlNRdjFQOU9qakZpTzJjZHQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 ## Step One for New Project
 
