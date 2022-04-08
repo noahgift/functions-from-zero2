@@ -46,3 +46,5 @@ deploy:
 ### Python Fire CLI
 * [YouTube-Python-Fire-CLI](https://youtu.be/DKWd-QUytPo)
 
+### Refactoring a Python script into a library called by Python Click CLI
+* [YouTube-Refactoring a Python script into a library called by Python Click CLI](https://youtu.be/0x261nI5Yws)
