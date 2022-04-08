@@ -36,4 +36,4 @@ deploy:
 
 ### Continuous Delivery of Microservice
 * [Watch on YouTube-Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://www.youtube.com/watch?v=8qRYu4Q7RQU)
-* [Watch on O'Reilly-Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API]
+* [Watch on O'Reilly-Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://learning.oreilly.com/videos/functions-to-containerized/04072022VIDEOPAIML/)
